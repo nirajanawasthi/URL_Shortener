@@ -1,4 +1,4 @@
-# Task 1: URL Shortener
+# Shortly - URL Shortener
 
 Django + DRF + PostgreSQL + Redis + Celery + JWT + Docker
 
